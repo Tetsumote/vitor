@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+/static/js/*.*
+
+# SQLite database files
+
+*.sqlite3
